@@ -1,0 +1,8 @@
+org\example\api\entity\Customer.class
+org\example\api\dto\receipt\ArticleDto.class
+org\example\api\dto\user\LoginResponseDto.class
+org\example\api\dto\receipt\PaymentDto.class
+org\example\api\dto\receipt\ReceiptDto.class
+org\example\api\dto\receipt\VATDto.class
+org\example\api\dto\ResponseDto.class
+org\example\api\dto\user\UserDto.class
